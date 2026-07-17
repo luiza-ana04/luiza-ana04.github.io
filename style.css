@@ -1,0 +1,36 @@
+:root {
+    /* Variáveis de cores */
+    --c1: #3300ff;
+    --c2: #483D8B;
+    --c3: #4c2aa1;
+    --c5: #6A5ACD;
+    --c6: #FDF5E6;
+    --c7: #F5FFFA;
+    --c8: #7B68EE;
+    --c10: #F0FFF0;
+    --c11: #F0FFF0;
+    --c12: #150049;
+
+
+}
+
+body {
+    background-color: #3300ff;
+    color: white;
+}
+
+.hero {
+    background-color: #4d21ff;
+    padding-top: 100px;
+}
+
+.separator {
+    border-right: 1px solid white;
+
+}
+
+/*roxo, branco e cobre
+header fixo/flutuante 
+#4a25de
+#3300ff
+*/
